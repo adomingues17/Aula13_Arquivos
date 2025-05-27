@@ -1,0 +1,14 @@
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.AssemblyInfoInputs.cache
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.AssemblyInfo.cs
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.csproj.CoreCompileInputs.cache
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\bin\Debug\net8.0\Aula13Arquivos.exe
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\bin\Debug\net8.0\Aula13Arquivos.deps.json
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\bin\Debug\net8.0\Aula13Arquivos.runtimeconfig.json
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\bin\Debug\net8.0\Aula13Arquivos.dll
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\bin\Debug\net8.0\Aula13Arquivos.pdb
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.dll
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\refint\Aula13Arquivos.dll
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.pdb
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.genruntimeconfig.cache
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\ref\Aula13Arquivos.dll
