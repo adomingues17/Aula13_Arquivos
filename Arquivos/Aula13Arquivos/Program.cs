@@ -19,18 +19,26 @@ namespace Aula13Arquivos
                 switch (opcao)
                 {
                     case "1":
-                        Console.WriteLine("Digite o nome do diretório, por favor.");
-                        string arquivo = Console.ReadLine();
-                        FileDataService.CriarArquivo(arquivo);                     
+                        Console.WriteLine("Digite o nome do diretório a ser criado, por favor.");
+                        var pastaCriar = Console.ReadLine();
+                        FileDataService.CriarArquivo(pastaCriar);                     
                         break;
                     case "2":
-                        FileDataService.LerArquivo();                     
+                        Console.WriteLine("Digite o nome do arquivo a ser aberto.");
+                        var arquivoLer = Console.ReadLine();
+                        FileDataService.LerArquivo(arquivoLer);                     
                         break;
                     case "3":
-                        FileDataService.AcrescentarTexto();                        
+                        Console.WriteLine("Digite o nome do arquivo a ser alterado.");
+                        var arquivoAlterar = Console.ReadLine();                       
+                        Console.WriteLine("Digite o conteúdo a ser inserido no arquivo.");
+                        var conteudo = Console.ReadLine();
+                        FileDataService.AcrescentarTexto(arquivoAlterar, conteudo);                      
                         break;
                     case "4":
-                        FileDataService.ApagarArquivo();                        
+                        Console.WriteLine("Digite o nome do diretório a ser deletado por favor.");                        
+                        var pastaDeletar = Console.ReadLine();
+                        FileDataService.ApagarArquivo(pastaDeletar);
                         break;
                     case "5":
                         return;                       

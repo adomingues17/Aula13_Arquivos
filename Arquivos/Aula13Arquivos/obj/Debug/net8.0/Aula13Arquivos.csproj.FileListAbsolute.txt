@@ -12,3 +12,4 @@ D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\refint\A
 D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.pdb
 D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.genruntimeconfig.cache
 D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\ref\Aula13Arquivos.dll
+D:\impacta\4cSharp\13aulaTreze\Arquivos\Aula13Arquivos\obj\Debug\net8.0\Aula13Arquivos.sourcelink.json
